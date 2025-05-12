@@ -1,0 +1,4 @@
+Probando el comando diff
+pruebas de diferencia de archivos git
+
+x
