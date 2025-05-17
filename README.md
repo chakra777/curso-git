@@ -1,4 +1,4 @@
-#Sección informativa de Markdon
+# Sección informativa de Markdon
 
 * Primer item
 * Segundo item
